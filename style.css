@@ -1,0 +1,229 @@
+/*Declare how the page will display with different screen size. limiting size and number of column.
+/*start mobile*/
+@media only screen and (max-device-width: 600px){
+    #about_body {
+        padding: 0px 10% 0px 10%;
+    }
+
+
+    /*about style*/
+    .column{
+        width: 100%;
+        padding: 4%
+    }
+    #logo_img{
+        height: 35px;
+        width: 35px;
+        align-self: center;
+        padding: 10px 50px 10px 50px;
+    }
+    #about_image{
+        width: 296px;
+        height: 296px;
+    }
+    .progress{
+        height: 15px;
+    }
+    .progress_bar{
+        height: 15px;
+    }
+/*    end about style*/
+}
+/*end phone*/
+
+/*start tablet */
+@media only screen and (min-width: 600px) {
+
+    header{
+        width: 100%;
+        height: 181px;
+    }
+    h1{
+        font-family: "Times New Roman", serif;
+        font-size: 31px;
+        font-weight: lighter;
+    }
+    h3{
+        font-family: 'Helvetica Nue', sans-serif;
+        font-size: 19px;
+
+    }
+    h4{
+        font-family: "Times New Roman", serif;
+        font-weight: lighter;
+        font-size: 19px;
+    }
+
+    /*about style*/
+    #about_main_content {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+    }
+
+    #logo_img {
+        height: 35px;
+        width: 35px;
+        align-self: center;
+        padding: 0px 50px 0px 50px;
+    }
+    #about_image{
+        width: 296px;
+        height: 296px;
+    }
+    .progress{
+        height: 15px;
+    }
+    .progress_bar{
+        height: 15px;
+    }
+}
+/*end tablet*/
+
+/*start desktop*/
+@media only screen and (min-width: 800px) {
+
+    h1{
+        font-family: "Times New Roman", serif;
+        font-size: 60px;
+        font-weight: lighter;
+    }
+    h3{
+        font-family: 'Helvetica Nue', sans-serif;
+        font-size: 35px;
+
+    }
+    h4{
+        font-family: "Times New Roman", serif;
+        font-weight: lighter;
+        font-size: 35px;
+    }
+    .column{
+        width: 45%;
+    }
+    header{
+        height: 150px;
+        width: 100%;
+    }
+    #about_main_content{
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+
+    }
+    #about_image{
+        width: 398px;
+        height: 398px;
+    }
+    #logo_img{
+        height: 35px;
+        width: 35px;
+        align-self: center;
+        padding: 0px 50px 0px 50px;
+    }
+    .sub_group_heading{
+        font-size: 25px;
+    }
+    .progress_bar{
+        width:80%;
+        height: 35px;
+        background-color: #f1f9ff;
+    }
+    .progress{
+        width: 30%;
+        height: 35px;
+        background-color: #bce0fd;
+    }
+
+    /*    portfolio*/
+    .project{
+        height: 886px;
+        width: 100%;
+    }
+    /*portfolio stuff*/
+    .project{
+        background-image: url("images/desktop_project_detail_lg_image.png");
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+    .project_article{
+        background-image: url("images/desktop_project_detail_sml_image.png");
+        flex-shrink: initial;
+        width: 33%;
+        padding-bottom: 3px;
+    }
+    .thump_nail{
+        width: 100%;
+        height: 400px;
+        display: flex;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-bottom: .5%;
+
+    }
+    /* end desktop*/
+}
+
+body{
+    position: absolute;
+    margin:0;
+    background-color: #2699fb;
+    width: 100%;
+    color: #ffffff;
+}
+ h1{
+     font-family: "Times New Roman", serif;
+     font-weight: lighter;
+ }
+ h3{
+     font-family: 'Helvetica Nue', sans-serif;
+     font-style: italic;
+ }
+ h4{
+     font-family: "Times New Roman", Serif;
+     font-weight: lighter;
+ }
+ a{
+    text-decoration: none;
+     color: white;
+ }
+
+header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+header h3{
+    font-size: 10px;
+    font-weight: lighter;
+    align-self: center;
+
+}
+.column{
+    padding: 9%;
+}
+
+.pink {
+    color: pink;
+}
+footer{
+
+}
+#sayHello{
+  padding-bottom: 5%;
+ }
+
+/*about page */
+
+/*end about page*/
+/*project gallery page*/
+
+/*end project gallery page*/
+
+/*project detail*/
+
+/*end project detail*/
