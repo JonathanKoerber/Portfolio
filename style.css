@@ -22,17 +22,91 @@
         height: 296px;
     }
     .progress{
-        height: 15px;
+        height: 8px;
     }
     .progress_bar{
-        height: 15px;
+        height: 8px;
     }
 /*    end about style*/
 }
 /*end phone*/
 
 /*start tablet */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 670px) {
+    .sectionPadding1 {
+        padding: 40px 40px 0 40px
+    }
+
+    .sectionMargin1 {
+        margin: 40px 40px 0 40px
+    }
+
+    .bottomMargin {
+        margin-bottom: 40px
+    }
+
+    .topMargin {
+        margin-top: 40px
+    }
+
+    .bottomPadding {
+        padding-bottom: 40px
+    }
+
+    h1 {
+        font-size: 40px;
+        font-size: 4.0rem;
+        line-height: 4.0rem
+    }
+
+    h2 {
+        font-size: 20px;
+        font-size: 2.0rem
+    }
+
+    .scroll-top {
+        display: none
+    }
+
+    .mainNav ul li {
+        letter-spacing: .120em;
+        margin-right: 20px
+    }
+
+    .mainNav {
+        position: fixed;
+        height: 50px;
+        top: 0;
+        overflow: hidden;
+        padding-top: 0
+    }
+
+    .mainNav .logo {
+        margin-top: -9px;
+        width: 30px
+    }
+
+    .mainNav .logo .icon-logo {
+        width: 30px
+    }
+
+    .mainNav .logo .target {
+        border: 0;
+        display: none
+    }
+
+    .mainNav ul li:nth-child(2) {
+        margin-right: 40px
+    }
+
+    .mainNav ul li:nth-child(3) {
+        padding-left: 0;
+        margin-left: 40px
+    }
+
+    .mainNav ul li a .line {
+        margin: -15px auto 0 auto
+    }
 
     header{
         width: 100%;
@@ -72,10 +146,10 @@
         height: 296px;
     }
     .progress{
-        height: 15px;
+        height: 10px;
     }
     .progress_bar{
-        height: 15px;
+        height: 10px;
     }
 }
 /*end tablet*/
@@ -83,80 +157,200 @@
 /*start desktop*/
 @media only screen and (min-width: 800px) {
 
-    h1{
+    h1 {
         font-family: "Times New Roman", serif;
         font-size: 60px;
         font-weight: lighter;
     }
-    h3{
+
+    h3 {
         font-family: 'Helvetica Nue', sans-serif;
         font-size: 35px;
 
     }
-    h4{
+
+    h4 {
         font-family: "Times New Roman", serif;
         font-weight: lighter;
         font-size: 35px;
     }
-    .column{
+
+    .column {
         width: 45%;
     }
-    header{
+
+    header {
         height: 150px;
         width: 100%;
     }
-    #about_main_content{
+
+    #about_main_content {
         display: flex;
         flex-direction: row-reverse;
         align-items: center;
 
     }
-    #about_image{
+
+    #about_image {
         width: 398px;
         height: 398px;
     }
-    #logo_img{
+
+    #logo_img {
         height: 35px;
         width: 35px;
         align-self: center;
         padding: 0px 50px 0px 50px;
     }
-    .sub_group_heading{
+
+    .sub_group_heading {
         font-size: 25px;
     }
-    .progress_bar{
-        width:80%;
-        height: 35px;
-        background-color: #f1f9ff;
-    }
-    .progress{
-        width: 30%;
-        height: 35px;
-        background-color: #bce0fd;
+
+    .progress_bar {
+        width: 80%;
+        height: 20px;
+        background-color: #d1d0ce;
     }
 
-    /*    portfolio*/
-    .project{
-        height: 886px;
-        width: 100%;
+    .progress {
+        width: 30%;
+        height: 20px;
+        background-color: #737371;
     }
+
+
     /*portfolio stuff*/
-    .project{
-        background-image: url("images/desktop_project_detail_lg_image.png");
-        display: flex;
-        flex-direction: column;
-        align-items:center;
+    article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+        display: block
     }
-    .project_article{
+
+    .wc-nav .titles {
+        height: 80px;
+        width: 100%;
+        font-size: 50px;
+        font-size: 5.0rem
+    }
+
+    .js.wc-nav.titles ul li a {
+        line-height: 75px;
+        height: 75px;
+        padding-bottom: 120px
+    }
+
+    .js.wc-nav.littleTitles-After {
+        font-size: 12px;
+        font-size: 1.2rem;
+        bottom: 10px
+    }
+
+    .js.wc-nav.littleTitles-After ul a {
+        line-height: 40px
+    }
+
+    .js.wc-nav.littleTitles-After ul a:hover {
+        opacity: 1
+    }
+
+    .js.wc-nav.littleTitles-After ul .line {
+        height: 20px
+    }
+
+    .js.wc-nav.littleTitles-Before {
+        font-size: 12px;
+        top: 120px
+    }
+
+    .js.wc-nav .littleTitles-Before ul a {
+        line-height: 40px
+    }
+
+    .js.wc-nav.littleTitles-Before ul .line {
+        height: 20px
+    }
+
+    .vertical-Center {
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%)
+    }
+
+    .css3Animate {
+        -webkit-transition: all .3s ease-in-out .001s;
+        -o-transition: all .3s ease-in-out .001s;
+        -moz-transition: all .3s ease-in-out .001s;
+        -ms-transition: all .3s ease-in-out .001s;
+    }
+
+    .project {
+        position: relative;
+        overflow: hidden;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background: #313131;
+    }
+
+    .project_article {
         background-image: url("images/desktop_project_detail_sml_image.png");
         flex-shrink: initial;
         width: 33%;
         padding-bottom: 3px;
     }
-    .thump_nail{
+
+    .description {
+        display: block;
+        width: 100%
+    }
+
+    .maxWidth {
+        width: 100%
+    }
+
+    .ul-nostyle {
+        padding: 0;
+        margin: auto;
+        list-style: none;
+    }
+
+    js.wc-nav {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 5;
+        left: 0;
+        opacity: 0
+    }
+
+    js.wc-nav.titles {
+        position: absolute;
+        overflow: hidden;
+        height: 120px;
+        width: 100%;
+        font-size: 80px;
+        font-size: 8rem;
+        text-align: center;
+        color: #FFF;
+        z-index: 5;
+    }
+
+    js.wc-nav.titles ul li a {
+        display: inline-block;
+        margin: auto;
+        line-height: 100px;
+        height: 100px;
+        padding-bottom: 160px;
+        padding-left: 20px;
+        padding-right: 20px;
+        overflow: hidden;
+        outline: 0;
+        border: 0
+    }
+
+    .thump_nail {
         width: 100%;
         height: 400px;
-        display: flex;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -164,6 +358,7 @@
         margin-bottom: .5%;
 
     }
+
     /* end desktop*/
 }
 
@@ -173,6 +368,12 @@ body{
     background-color: #2699fb;
     width: 100%;
     color: #ffffff;
+}
+#about_body{
+    background-color: #333332;
+}
+#portfolio_body{
+    background-color: #333332;
 }
  h1{
      font-family: "Times New Roman", serif;
@@ -216,6 +417,7 @@ footer{
 #sayHello{
   padding-bottom: 5%;
  }
+
 
 /*about page */
 
