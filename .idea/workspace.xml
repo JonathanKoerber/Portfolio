@@ -2,105 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c60d087c-f1b6-42b7-ab1c-32cae4d34caa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Gif and MP4/2019_q3_us_oft_300x600_F.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Gif and MP4/2019_q3_us_oft_728x90_F.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Gif and MP4/2019_q4_us_oft_970x250_F.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Gif and MP4/OFT_journey.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Gif and MP4/OFT_social.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/HTML5_concepts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/HTML5_concepts@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_300x600_F.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_300x600_F@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_728x90_F.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_728x90_F@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q4_us_oft_970x250_F.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/ID2019_q4_us_oft_970x250_F@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Image_1@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Image_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/Image_2@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_x@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/oft_desktop_hero_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/oprah_fav/oft_desktop_hero_image@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cb@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cc@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cd@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ce@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ct.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ct@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cu@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cv@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima_bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_desktop_hero_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_desktop_hero_image@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_A@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_D@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_E.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_CAT_E@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_A@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cr@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cs@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_G.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_DOG_G@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_HORSE_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_HORSE_A@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_A@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_C.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_C@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_S_ANIMAL_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/pets_illustration_S_ANIMAL_A@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/social_illustrations.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/social_illustrations@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/social_patterns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pets/social_patterns@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_lg_imag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_lg_imag@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_lg_imag_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_lg_imag_b@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima_b@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima_bq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_sml_ima_bq@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im_bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im_bb@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im_bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/desktop_project_detail_tall_im_bc@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/pdc_desktop_hero_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prime_day/pdc_desktop_hero_image@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/MP4/Flair_btn_mkr_vid.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_ba@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bv@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bw@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/flair_desktop_hero_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/flair_desktop_hero_image@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_12x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_12x@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_1_copy2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_1_copy2x@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_1_copy_32x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flair/pets_category_icon_1_copy_32x@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flair.html" beforeDir="false" afterPath="$PROJECT_DIR$/flair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oprah_fav.html" beforeDir="false" afterPath="$PROJECT_DIR$/oprah_fav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets.html" beforeDir="false" afterPath="$PROJECT_DIR$/pets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime_day.html" beforeDir="false" afterPath="$PROJECT_DIR$/prime_day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -113,31 +42,96 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/prime_day.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="347">
+                  <caret line="117" column="33" lean-forward="true" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/oprah_fav.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="467">
+                  <caret line="105" column="11" selection-start-line="104" selection-end-line="117" selection-end-column="10" />
+                  <folding>
+                    <element signature="n#style#0;n#h5#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/flair.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/projects.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/images/flair/flair_desktop_hero_image.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/about.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-480">
+                  <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="337" column="13" lean-forward="true" selection-start-line="337" selection-start-column="13" selection-end-line="337" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pets.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-450">
+                  <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,22 +156,27 @@
       <list>
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/gallery.js" />
         <option value="$PROJECT_DIR$/plugins.js" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/portfolio.js" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/project_detail.html" />
+        <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/flair.html" />
+        <option value="$PROJECT_DIR$/pets.html" />
+        <option value="$PROJECT_DIR$/oprah_fav.html" />
+        <option value="$PROJECT_DIR$/prime_day.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1082" />
+    <option name="x" value="2160" />
+    <option name="y" value="89" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -200,7 +199,7 @@
               <item name="portfolio" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/WebstormProjects/Portfolio" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="oprah_fav" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="flair" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +212,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/prime_day" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/flair" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -221,6 +220,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/flair" />
       <recent name="$PROJECT_DIR$/images/prime_day" />
       <recent name="$PROJECT_DIR$/images/oprah_fav" />
       <recent name="$PROJECT_DIR$/images/pets" />
@@ -275,12 +275,12 @@
       <workItem from="1591660159941" duration="44000" />
       <workItem from="1591713023080" duration="354000" />
       <workItem from="1591713393371" duration="9827000" />
-      <workItem from="1591794962762" duration="18448000" />
+      <workItem from="1591794962762" duration="54326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87502000" />
+    <option name="totallyTimeSpent" value="123380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -302,7 +302,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.17449306" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.21771611" />
     </layout>
     <layout-to-restore>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -321,154 +321,198 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.17449306" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.17449306" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JavaScript-modules-diagram//home/jonathan/WebstormProjects/portfolio/portfolio.js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/portfolio.js</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="417.0" y="294.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="835" column="3" selection-start-line="835" selection-start-column="3" selection-end-line="835" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1293">
-          <caret line="3811" column="14" selection-start-line="3811" selection-start-column="14" selection-end-line="3811" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="405" column="1" selection-start-line="405" selection-start-column="1" selection-end-line="405" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pets/pets_desktop_hero_image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="164" column="9" lean-forward="true" selection-start-line="164" selection-start-column="9" selection-end-line="164" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#figure#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#figure#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#figure#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#figure#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#figure#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#figure#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#figure#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#figure#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/oft_desktop_hero_image@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_x@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/HTML5_concepts@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/Image_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/Image_1@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_728x90_F@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_300x600_F@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q4_us_oft_970x250_F@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/HTML5_concepts.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_728x90_F.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q3_us_oft_300x600_F.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/ID2019_q4_us_oft_970x250_F.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/Image_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/oft_desktop_hero_image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_bg@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/oprah_fav/desktop_project_detail_lg_imag_y.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_ba.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bv.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cb@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cc@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_sml_ima_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_desktop_hero_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_CAT_D@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_CAT_A@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/social_patterns.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/social_patterns@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/social_illustrations.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_CAT_E.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_DOG_E_cr.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_HORSE_A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_DOG_G.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_C.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_CAT_A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_S_ANIMAL_A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_REPTILE_A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_DOG_A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/pets_illustration_CAT_D.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ce.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_ct.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pets/desktop_project_detail_lg_imag_cv.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_ba@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag_bu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/flair_desktop_hero_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/prime_day/pdc_desktop_hero_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/desktop_project_detail_lg_imag@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/pets_category_icon_12x@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flair/flair_desktop_hero_image@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flair.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oprah_fav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="105" column="11" selection-start-line="104" selection-end-line="117" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prime_day.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="117" column="33" lean-forward="true" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
         </state>
       </provider>
     </entry>
