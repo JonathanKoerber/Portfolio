@@ -10,8 +10,6 @@
     width: 100%;
     padding: 4%
   }
-
-  #logo_img {
     height: 25px;
     width: 25px;
     align-self: center;
@@ -320,20 +318,43 @@ max-width: 100%
   border-bottom-style: solid;
   padding: 0 10% 7% 10%;
 }
-.img_full{
-  max-width: 100%;
-  height: auto;
-  overflow: ;
-
-}
-.img_half{
-  max-width: 50%;
-  height: auto;
+.bottom{
+  align-items: start;
+  padding: 0 10% 0 10%;
 }
 .image_section{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.image_collumn{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.img_full{
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.bottom_padding{
+  padding: 0 0 1.5% 0;
+}
+.img_tall{
+  max-width: 98%;
+  height: auto;
+  padding-left: 2%;
+}
+.img_half{
+  max-width: 50%;
+  height: auto;
+}
+.img_small{
+  max-width: 10%;
+  height: auto;
 }
 .img_third{
   width: 30%;
@@ -400,8 +421,11 @@ max-width: 100%
 .float_left{
   justify-content: flex-start;
 }
+.fload_right{
+  justify-content: right;
+}
 footer{
   background-color: #333332;
-  height: fit-content;
+  height: auto;
 }
 /*end project detail*/
