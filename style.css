@@ -10,6 +10,7 @@
     width: 100%;
     padding: 4%
   }
+  #logo_img{
     height: 25px;
     width: 25px;
     align-self: center;
@@ -298,6 +299,19 @@ max-width: 100%
   transform: translate(50%, 50%);
   z-index: 0;
 }
+.hero_content{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page_title{
+ padding-top: 10%;
+  font-size: 80px;
+  font-weight: bolder;
+}
+.exit{
+  justify-content: center;
+}
 .description_title{
   text-align: center;
   font-family: Times New Roman, serif;
@@ -329,11 +343,14 @@ max-width: 100%
   justify-content: space-between;
 
 }
-.image_collumn{
+.image_column{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+.text_column{
+  padding: 0 10% 0 10%
 }
 .img_full{
   max-width: 100%;
@@ -388,7 +405,7 @@ max-width: 100%
   background: #000;
 }
 .brief{
-  padding-top: 37%;
+  padding-top: 5%;
 }
 
 .off_set_col{
