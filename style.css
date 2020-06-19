@@ -217,7 +217,7 @@ a {
 }
 p{
   font-family: Helvetica Neue, sans-serif;
-  font-size: 21px;
+  font-size: 18px;
 }
 
 header {
@@ -231,6 +231,9 @@ header h3 {
   font-size: 25px;
   font-weight: lighter;
   align-self: center;
+}
+.header a:hover{
+  text-decoration: underline;
 }
 
 .column {
@@ -263,6 +266,29 @@ header h3 {
 .hero_image img{
   display: block;
 }
+/* .title, .hero_image h3:hover .hidden{
+text-decoration: line-through;
+}
+.hero_image h3:hover .title{
+  text-decoration: none;
+} */
+.project_hero:hover{
+  opacity: .7;
+}
+.hero_image:hover .title {
+  display: block;
+
+}
+
+/* .project_hero:hover{
+  opacity: .7;
+} */
+/* .visible{
+  visibility: visible;
+}
+.hidden{
+  visibility: hidden;
+} */
 .project_detail_hero{
   position: absolute;
   left: 0px;
@@ -290,13 +316,14 @@ header h3 {
 }
 .title{
   position: absolute;
-  text-align: center;
-  -webkit-transform: translate(50%, 50%);
-  -moz-transform: translate(50%, 50%);
+  /* text-align: center; */
+  -webkit-transform: translate(70%, 70%);
+  -moz-transform: translate(10%, 10%);
   -ms-transform: translate(50%, 50%);
   -o-transform: translate(50%, 50%);
   transform: translate(50%, 50%);
   z-index: 0;
+  display: none;
 }
 .hero_content{
   display: flex;
@@ -311,6 +338,9 @@ header h3 {
 .exit{
   justify-content: center;
 }
+.exit:hover{
+  opacity: .7;
+}
 .description_title{
   text-align: center;
   font-family: Times New Roman, serif;
@@ -320,7 +350,7 @@ header h3 {
 }
 .description_content{
   font-family: Helvetica Heue, sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   color: #000002;
   text-align: left;
 
@@ -365,6 +395,27 @@ header h3 {
   max-width: 100%;
   height: auto;
   overflow: hidden;
+}
+#weird_image_grid{
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto 10% 20%;
+  height: ;
+
+}
+#row_one{
+  grid-column-start: 1;
+   grid-row-start: 1;
+}
+#row_two{
+  grid-column: 1;
+  grid-row: 2;
+  width: 80%
+}
+#row_three{
+  grid-column: 1;
+  grid-row: 3;
+
 }
 .bottom_padding{
   padding: 0 0 1.5% 0;
@@ -433,7 +484,7 @@ header h3 {
 .two_third{
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 65%;
   height: auto;
   float: left;
 }
