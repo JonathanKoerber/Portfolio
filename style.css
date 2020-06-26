@@ -8,7 +8,7 @@
   /*about style*/
   .column {
     width: 100%;
-    padding: 4%
+    padding: 0 4% 2% 4%;
   }
   #logo_img{
     height: 25px;
@@ -56,39 +56,6 @@
     padding-bottom: 40px
   }
 
-  h1 {
-    font-size: 40px;
-    font-size: 4.0rem;
-    line-height: 4.0rem
-  }
-
-  h2 {
-    font-size: 20px;
-    font-size: 2.0rem
-  }
-
-  header {
-    width: 100%;
-    height: 10%;
-  }
-
-  h1 {
-    font-family: "Times New Roman", serif;
-    font-size: 31px;
-    font-weight: lighter;
-  }
-
-  h3 {
-    font-family: 'Helvetica Nue', sans-serif;
-    font-size: 19px;
-  }
-
-  h4 {
-    font-family: "Times New Roman", serif;
-    font-weight: lighter;
-    font-size: 19px;
-  }
-
   /*about style*/
   #about_main_content {
     display: flex;
@@ -120,30 +87,14 @@
 /*end tablet*/
 /*start desktop*/
 @media only screen and (min-width: 800px) {
-  h1 {
-    font-family: "Times New Roman", serif;
-    font-size: 60px;
-    font-weight: lighter;
-  }
-
-  h3 {
-    font-family: 'Helvetica Nue', sans-serif;
-    font-size: 24px;
-  }
-
-  h4 {
-    font-family: "Times New Roman", serif;
-    font-weight: lighter;
-    font-size: 35px;
-  }
 
   .column {
     width: 45%;
   }
 
   header {
-    height: 2%;
     width: 100%;
+    height: auto;
   }
 
   #about_main_content {
@@ -224,7 +175,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  height: 120px;
+  height: auto;
 }
 
 header h3 {
@@ -237,7 +188,7 @@ header h3 {
 }
 
 .column {
-  padding: 9%;
+  padding: 2% 9% 2% 9%;
 }
 
 #sayHello {
@@ -266,35 +217,20 @@ header h3 {
 .hero_image img{
   display: block;
 }
-/* .title, .hero_image h3:hover .hidden{
-text-decoration: line-through;
-}
-.hero_image h3:hover .title{
-  text-decoration: none;
-} */
-.project_hero img:hover{
+
+.project_hero:hover{
   opacity: .7;
 }
 .hero_image:hover .title {
   display: block;
 }
-
-/* .project_hero:hover{
-  opacity: .7;
-} */
-/* .visible{
-  visibility: visible;
-}
-.hidden{
-  visibility: hidden;
-} */
 .project_detail_hero{
   position: absolute;
   left: 0px;
   top: 0px;
   z-index: -1;
   width: 100%;
-  height: 600px;
+  height: auto;
   background: #000;
   overflow: hidden;
 }
@@ -315,24 +251,21 @@ text-decoration: line-through;
 }
 .title{
   position: absolute;
-  /* text-align: center; */
-  -webkit-transform: translate(70%, 70%);
-  -moz-transform: translate(10%, 10%);
-  -ms-transform: translate(50%, 50%);
-  -o-transform: translate(50%, 50%);
-  transform: translate(50%, 50%);
-  z-index: 0;
+  padding-top: 6%;
+  z-index: 99;
   display: none;
 }
 .hero_content{
   display: flex;
   align-items: center;
   flex-direction: column;
+
 }
 .page_title{
- padding-top: 10%;
+ padding: 2% 0 2% 0;
   font-size: 80px;
   font-weight: bolder;
+  vertical-align: super;
 }
 .exit{
   justify-content: center;
@@ -352,7 +285,6 @@ text-decoration: line-through;
   font-size: 15px;
   color: #000002;
   text-align: left;
-
 }
 .bottom_underline{
   align-items: start;
@@ -496,19 +428,21 @@ text-decoration: line-through;
 .float_left{
   justify-content: flex-start;
 }
-.fload_right{
+.float_right{
   justify-content: right;
 }
+
 #topBtn {
   display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
+  position: sticky; /* Fixed/sticky position */
   bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
+  right: -30px; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
   height: 55px;
   opacity: 7;
+
 
 }
 footer{

@@ -11,7 +11,7 @@
   <img id="logo_img" src="images/logo.png" />
   <h3 id="projects" class="header"><a href="projects.html">Projects</a></h3>
 </header>
-<figure id="oprha_fav_hero">
+<figure class="project_hero_container">
   <img id="oft_hi" class="project_detail_hero" src="images/oprah_fav/oft_desktop_hero_image.png">
   <div class="hero_content">
     <h1 class="page_title">OFT 2019</h1>
@@ -71,14 +71,14 @@
         a hover state for each graphic (where applicable) to tie in with our “sparkle” onsite creative.
       </p>
       <div class="img_half">
-        <img class="img_full" src="images/oprah_fav/ID2019_q3_us_oft_300x600_F.png" />
+        <img class="img_full" src="images/oprah_fav/Gif_MP4/2019_q3_us_oft_300x600_F.gif" />
       </div>
     </div>
     <div class="two_third padding_tb">
       <div id="weird_image_grid" class="image_column">
         <img id="row_one" class="img_full" src="images/oprah_fav/HTML5_concepts.png" />
-        <img id="row_two" class="img_full" src="images/oprah_fav/ID2019_q3_us_oft_728x90_F.png" />
-        <img id="row_three" class="img_full" src="images/oprah_fav/ID2019_q4_us_oft_970x250_F.png" />
+        <img id="row_two" class="img_full" src="images/oprah_fav/Gif_MP4/2019_q3_us_oft_728x90_F.gif" />
+        <img id="row_three" class="img_full" src="images/oprah_fav/Gif_MP4/2019_q4_us_oft_970x250_F.gif" />
       </div>
     </div>
   </section>
@@ -91,7 +91,10 @@
       researched, concepted and consulted social experts and delivered 3 MP4s. 1 to be used on both Facebook and Instagram
       and the other two were specific for each channel. In addition, we also gave them the static images they requested.
     </p>
-    <img class="img_full" src="images/oprah_fav/desktop_project_detail_lg_imag.png" />
+
+    <video class="img_full" preload="none" controls="play/pause" loop="loop" autoplay="autoplay" poster="images/oprah_fav/desktop_project_detail_lg_imag.png">
+      <source src="images/oprah_fav/Gif_MP4/OFT_social.mp4" type="video/mp4" />
+    </video>
   </section>
   <section class="bottom_underline">
     <h3 class="description_title">Onsite</h3>
@@ -106,7 +109,10 @@
   </section>
   <section class="bottom_underline">
     <h3 class="description_title">Customer Journey</h3>
-    <img class="img_full" src="images/oprah_fav/desktop_project_detail_lg_imag_y.png" />
+    <video class="img_full" preload="none" loop="loop" autoplay="autoplay"
+    poster="images/oprah_fav/desktop_project_detail_lg_imag_y.png" controls>
+      <source src="images/oprah_fav/Gif_MP4/OFT_journey.mp4" type="video/mp4" />
+    </video>
   </section>
   <section class="bottom project_row">
     <div class="hero_image">
@@ -122,7 +128,9 @@
     </div>
   </section>
 </main>
-<img onclick="toFunction()" id="topBtn" title="Go to top" src="images/ic_arrow_upward_black_48dp.png"/>
+
+<img onclick="toFunction()" id="topBtn" title="Go to top" src="images/ic_arrow_upward_black_48dp.png" />
+
 <footer>
   <div id="contact_method" class="column">
     <h5 id="sayHello" style="font-weight:bold">Say Hello</h5>
@@ -133,4 +141,5 @@
 </footer>
 </body>
 <script src="scripts.js"></script>
+
 </html>
