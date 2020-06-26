@@ -1,4 +1,29 @@
-/*Declare how the page will display with different screen size. limiting size and number of column.
+/*Global style*/
+h1 {
+  font-family: "Times New Roman", serif;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Helvetica Nue', sans-serif;
+
+}
+
+h4 {
+  font-family: "Times New Roman", serif;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+p{
+  font-family: Helvetica Neue, sans-serif;
+  font-size: 18px;
+}
+/*Global end*/
 /*start mobile*/
 @media only screen and (max-device-width: 600px) {
   #about_body {
@@ -29,7 +54,10 @@
   .progress_bar {
     height: 8px;
   }
+ .img_half{
 
+   width: 100%;
+ }
   /*    end about style*/
 }
 
@@ -147,29 +175,7 @@ body {
 #portfolio_body {
   background-color: #333332;
 }
-h1 {
-  font-family: "Times New Roman", serif;
-  font-weight: lighter;
-}
 
-h3 {
-  font-family: 'Helvetica Nue', sans-serif;
-
-}
-
-h4 {
-  font-family: "Times New Roman", serif;
-  font-weight: lighter;
-}
-
-a {
-  text-decoration: none;
-  color: white;
-}
-p{
-  font-family: Helvetica Neue, sans-serif;
-  font-size: 18px;
-}
 
 header {
   display: flex;
@@ -186,17 +192,17 @@ header h3 {
 .header a:hover{
   text-decoration: underline;
 }
-
-.column {
-  padding: 2% 9% 2% 9%;
+.hero_section{
+  padding: 7% 5% 5% 10%;
 }
 
-#sayHello {
-  padding-bottom: 5%;
+.column {
+  padding: 2% 9% 2% 0%;
 }
 
 .underline{
   text-decoration: underline;
+  stroke-width: 2px;
 }
 #project_body{
   background-color: #333332;
