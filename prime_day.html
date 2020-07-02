@@ -5,22 +5,28 @@
     <title>Prime Day Concert</title>
     <link rel="stylesheet" href="style.css"/>
 </head>
-<header>
+<header class="header_container">
+<div class="project_header">
     <h3 id="about" class="header"><a href="about.html">About</a></h3>
     <img id="logo_img" src="images/logo.png" />
     <h3 id="projects" class ="header"><a href="projects.html">Projects</a></h3>
+</div>
 </header>
-<img onclick="toFunction()" id="topBtn" title="Go to top" src="images/ic_arrow_upward_black_48dp.png"/>
-<figure id="oprha_fav_hero">
-    <img id="oft_hi" class="project_detail_hero" src="images/prime_day/pdc_desktop_hero_image.png">
-    <div class="hero_content">
+
+<figure class="page_hero">
+    <img class="project_hero" src="images/prime_day/pdc_desktop_hero_image.png">
+    <div class="page_hero_container">
+        <div class="page_hero_content">
         <h1 class="page_title">Prime Day Concerts</h1>
+            <div class="project_header">
         <img class="exit" src="images/exit.png" onclick="back()"/>
+            </div>
+    </div>
     </div>
 </figure>
 <main class="content">
-<section id="brief" class="bottom_underline">
-    <h3 class="description_title brief">Brief</h3>
+<section  class="bottom_underline">
+    <h3 class="description_title">Brief</h3>
     <p class="description_content">
         2019 was the 2nd year Amazon celebrated Prime membership with an exclusive Prime Day Concert. Featuring live performances
         by headliner, Taylor Swift, Dua Lipa, Sza, Becky G, and hosted by Jane Lynch. With a large budget and multiple stakeholders
@@ -76,7 +82,7 @@
         </p>
         </div>
 
-    <div class="img_half padding_tb">
+    <div class="img_half ">
         <img class="img_full" src="images/prime_day/desktop_project_detail_sml_ima_bq.png"/>
     </div>
     </div>
@@ -109,14 +115,14 @@
         and also helped stage the photo opportunities in this space. The directional signs to the restrooms were my handywork. lol
     </p>
     </div>
-    <div class="img_half padding_tb">
+    <div class="img_half">
     <img class="img_full" src="images/prime_day/desktop_project_detail_sml_ima.png"/>
     </div>
   </div>
 </section>
 <section class="bottom_underline">
     <h3 class="description_title">Basement & Toolkits</h3>
-    <p class="description_content">
+
     <p class="description_content">
         This area did get lots of traffic. Most guests used the restroom facilities in this area where we partnered with
         “Belei” for freebies. Catering was also set-up here as well as additional Wickedly Prime freebies. An opportunity
@@ -125,20 +131,21 @@
         designs.<br/><br/>As visual designer, I also handled the toolkit. This consisted of wayfinding signage, wristbands,
         ambassador uniforms, partner signage, merch, catering menu… Pretty much any of the extra things to make the event come together.
     </p>
-    </p>
     <section class="image_section_no_space">
+        <div class="img_full">
     <img class="img_third" src="images/prime_day/desktop_project_detail_tall_im.png"/>
     <img class="img_third" src="images/prime_day/desktop_project_detail_tall_im_bc.png"/>
     <img class="img_third" src="images/prime_day/desktop_project_detail_tall_im_bb.png"/>
+        </div>
     </section>
 </section>
     <section class="bottom project_row">
         <div class="hero_image">
-            <h3 class="description_title left">My Role</h3>
+            <h3 class="team_title ">My Role</h3>
             <p class="description_content">Visual Design & Motion Design</p>
         </div>
         <div class="hero_image">
-            <h3 class="description_title left">Team</h3>
+            <h3 class="team_title">Team</h3>
             <p class="description_content">Heather Mounsey - Creative Director<p>
             <p class="description_content">Allison Wagner - Photo Art Director</p>
             <p class="description_content">Katie Bren - Lead Design & Art Director<p>
@@ -147,6 +154,8 @@
         </div>
     </section>
 </main>
+<img onclick="toFunction()" id="topBtn" title="Go to top" src="images/ic_arrow_upward_black_48dp.png" />
+
 <footer>
     <div id="contact_method" class="column">
         <h5 id="sayHello" style="font-weight:bold">Say Hello</h5>

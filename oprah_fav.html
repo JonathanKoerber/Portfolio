@@ -6,16 +6,22 @@
   <title>OFT 2019</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-<header>
-  <h3 id="about" class="header"><a href="about.html">About</a></h3>
-  <img id="logo_img" src="images/logo.png" />
-  <h3 id="projects" class="header"><a href="projects.html">Projects</a></h3>
+<header class="header_container">
+  <div class="project_header">
+    <h3 id="about" class="header"><a href="about.html">About</a></h3>
+    <img id="logo_img" src="images/logo.png" />
+    <h3 id="projects" class ="header"><a href="projects.html">Projects</a></h3>
+  </div>
 </header>
-<figure class="project_hero_image">
-  <img class="project_hero" src="images/oprah_fav/oft_desktop_hero_image.png">
-  <div class="project_hero_content">
+<figure class="page_hero">
+  <img class="project_hero" src="images/oprah_fav/oft_desktop_hero_image.png"/>
+  <div class="page_hero_container">
+    <div class="page_hero_content">
     <h1 class="page_title">OFT 2019</h1>
-    <img class="title exit" src="images/exit.png" onclick="back()" />
+      <div class="project_header">
+    <img class="exit" src="images/exit.png" onclick="back()" />
+      </div>
+  </div>
   </div>
 </figure>
 <main class="content">
@@ -59,7 +65,7 @@
     </section>
   </section>
   <section class="bottom_underline image_section reverse">
-    <div class="image_column img_third text_column">
+    <div class="image_column img_third">
       <h3 class="description_title left">Dynamic Ads</h3>
       <p class="description_content left">
         Due to budget constraints (and life challenges), I was not able to attend the photo shoot. However, I armed
@@ -71,14 +77,14 @@
         a hover state for each graphic (where applicable) to tie in with our “sparkle” onsite creative.
       </p>
       <div class="img_half">
-        <img class="img_full" src="images/oprah_fav/Gif_MP4/2019_q3_us_oft_300x600_F.gif" />
+        <img class="img_full_height" src="images/oprah_fav/Gif_MP4/2019_q3_us_oft_300x600_F.gif" />
       </div>
     </div>
-    <div class="two_third padding_tb">
+    <div class="two_third">
       <div id="weird_image_grid" class="image_column">
         <img id="row_one" class="img_full" src="images/oprah_fav/HTML5_concepts.png" />
         <img id="row_two" class="img_full" src="images/oprah_fav/Gif_MP4/2019_q3_us_oft_728x90_F.gif" />
-        <img id="row_three" class="img_full" src="images/oprah_fav/Gif_MP4/2019_q4_us_oft_970x250_F.gif" />
+        <img id="row_three" class="img_full padding_tb" src="images/oprah_fav/Gif_MP4/2019_q4_us_oft_970x250_F.gif" />
       </div>
     </div>
   </section>
@@ -116,11 +122,11 @@
   </section>
   <section class="bottom project_row">
     <div class="hero_image">
-      <h3 class="description_title left">My Role</h3>
+      <h3 class="team_title left">My Role</h3>
       <p class="description_content">Visual Design & Motion Design</p>
     </div>
     <div class="hero_image">
-      <h3 class="description_title left">Team</h3>
+      <h3 class="team_title">Team</h3>
       <p class="description_content">Heather Mounsey - Creative Director<p>
           <p class="description_content">Allison Wagner - Photo Art Director</p>
           <p class="description_content">Katie Bren - Lead Design & Art Director<p>

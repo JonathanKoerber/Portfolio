@@ -6,17 +6,23 @@
   <title>Project Detail</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-<header>
-  <h3 id="about" class="header"><a href="about.html">About</a></h3>
-  <img id="logo_img" src="images/logo.png" />
-  <h3 id="projects" class="header"><a href="projects.html">Projects</a></h3>
+<header class="header_container">
+  <div class="project_header">
+    <h3 id="about" class="header"><a href="about.html">About</a></h3>
+    <img id="logo_img" src="images/logo.png" />
+    <h3 id="projects" class ="header"><a href="projects.html">Projects</a></h3>
+  </div>
 </header>
 <img onclick="toFunction()" id="topBtn" title="Go to top" src="images/ic_arrow_upward_black_48dp.png"/>
-<figure class="project_hero">
-  <img  class="project_detail_hero" src="images/pets/pets_desktop_hero_image.png">
-  <div class="hero_content">
-    <h1 class="page_title">Amazon Pets</h1>
-    <img class="exit" src="images/exit.png" onclick="back()"/>
+<figure class="page_hero">
+  <img class="project_hero" src="images/pets/pets_desktop_hero_image.png">
+  <div class="page_hero_container">
+    <div class="page_hero_content">
+      <h1 class="page_title">Amazon Pets</h1>
+      <div class="project_header">
+        <img class="exit" src="images/exit.png" onclick="back()"/>
+      </div>
+    </div>
   </div>
 </figure>
 <main class="content">
@@ -117,11 +123,11 @@
   </section>
   <section class="bottom project_row">
     <div class="hero_image">
-      <h3 class="description_title left">My Role</h3>
+      <h3 class="team_title">My Role</h3>
       <p class="description_content">Visual Design</p>
     </div>
     <div class="hero_image">
-      <h3 class="description_title left">Team</h3>
+      <h3 class="team_title">Team</h3>
       <p class="description_content">John Mchogh - Design Manager</p>
       <p class="description_content">Peter Ty - Art Director</p>
       <p class="description_content">Jeff Turner - Copywriter/ Strategist</p>
