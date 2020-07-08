@@ -7,6 +7,7 @@
     <list default="true" id="c60d087c-f1b6-42b7-ab1c-32cae4d34caa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flair.html" beforeDir="false" afterPath="$PROJECT_DIR$/flair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +26,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="278">
-                    <caret line="427" column="7" selection-start-line="427" selection-start-column="1" selection-end-line="427" selection-end-column="7" />
+                  <state relative-caret-position="323">
+                    <caret line="534" column="23" selection-start-line="534" selection-start-column="23" selection-end-line="534" selection-end-column="23" />
                   </state>
                 </provider>
               </entry>
@@ -47,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -59,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5670">
-              <caret line="378" column="27" selection-start-line="378" selection-start-column="27" selection-end-line="378" selection-end-column="27" />
+            <state relative-caret-position="5655">
+              <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -74,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flair.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="93" column="12" lean-forward="true" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+            <state relative-caret-position="1560">
+              <caret line="104" column="85" selection-start-line="104" selection-start-column="85" selection-end-line="104" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -86,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oprah_fav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="1185">
               <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
@@ -108,10 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>js</find>
-      <find>Tween</find>
-      <find>bottom</find>
-      <find>.br</find>
       <find>.img</find>
       <find>reverse</find>
       <find>image_s</find>
@@ -129,7 +126,6 @@
       <find>header</find>
       <find>content</find>
       <find>.descri</find>
-      <find>.bottom</find>
       <find>.description</find>
       <find>.image</find>
       <find>image_sec</find>
@@ -137,6 +133,12 @@
       <find>.progress_wrap</find>
       <find>ABOUT_</find>
       <find>img_th</find>
+      <find>page_t</find>
+      <find>page_hero</find>
+      <find>exit</find>
+      <find>.image_section</find>
+      <find>.bottom</find>
+      <find>.header</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,16 +160,16 @@
         <option value="$PROJECT_DIR$/oprah_fav.html" />
         <option value="$PROJECT_DIR$/pets.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/flair.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="y" value="-2" />
-    <option name="width" value="1920" />
+    <option name="width" value="960" />
     <option name="height" value="1082" />
   </component>
   <component name="ProjectView">
@@ -268,12 +270,12 @@
       <workItem from="1593091333153" duration="1857000" />
       <workItem from="1593180760055" duration="3564000" />
       <workItem from="1593358970287" duration="34470000" />
-      <workItem from="1593697481043" duration="974000" />
+      <workItem from="1593697481043" duration="9828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183594000" />
+    <option name="totallyTimeSpent" value="192448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -443,6 +445,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oprah_fav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flair.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="104" column="85" selection-start-line="104" selection-start-column="85" selection-end-line="104" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prime_day.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2055">
@@ -457,34 +483,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oprah_fav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5670">
-          <caret line="378" column="27" selection-start-line="378" selection-start-column="27" selection-end-line="378" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flair.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="93" column="12" lean-forward="true" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="534" column="23" selection-start-line="534" selection-start-column="23" selection-end-line="534" selection-end-column="23" />
         </state>
       </provider>
     </entry>

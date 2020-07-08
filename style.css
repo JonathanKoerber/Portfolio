@@ -66,6 +66,7 @@ body {
 .about_section{
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: space-between;
 }
 
@@ -112,7 +113,6 @@ body {
 .image_section{
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   justify-content: space-between;
 }
 .small_image_section {
@@ -216,7 +216,7 @@ body {
   z-index: 99;
   cursor: pointer;
   padding: 15px;
-  height: 55px;
+  height: 30px;
   opacity: 5;
 }
 .arrow_btn_wraper{
@@ -236,11 +236,10 @@ body {
   flex-direction: row;
   justify-content: center;
   height: auto;
-
 }
 
 .header{
-  font-size: 25px;
+  font-size: 16px;
   font-weight: lighter;
   align-self: center;
 }
@@ -370,9 +369,9 @@ body {
   margin: 0 auto;
   left: 0;
   right:0 ;
-  top: 20%;
+  top: 10%;
   text-align: center;
-  width: 40%
+  width: auto;
 }
   .pace_hero_content{
     display: flex;
@@ -383,13 +382,12 @@ body {
   .page_title{
     align-self: center;
     display: block;
-    font-size: 50px;
+    font-size: 30px;
   }
   .exit{
-    display: block;
-    justify-self: center;
-    min-width: 50px;
-  width: 12%;
+  display: block;
+  justify-self: center;
+  width: 20px;
   height: auto;
 }
 .two_third {
@@ -414,11 +412,11 @@ body {
   margin: 0;
 }
 .bottom{
-  margin: 5% 0 5% 0;
-  padding: 0 5% 2% 5%;
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
+  width: 100%;
+  height: auto;
+  padding: 0;
 }
 .team_column{
   padding: 0;
@@ -452,6 +450,7 @@ body {
   flex-direction: row-reverse;
   justify-content: space-between;
 }
+
 /*  project end*/
 @media only screen and (min-width: 575.98px) {
   /*--projects*/
@@ -476,7 +475,11 @@ body {
     width: 100%;
     max-width: 100%;
   }
+  #topBtn{
+    height: 40px;
+  }
   /*--projects*/
+
   }
 
   /*small device  phones landscape*/
@@ -489,12 +492,23 @@ body {
     margin: 0 auto;
     left: 0;
     right:0 ;
-    top: 10%;
+    top: 15%;
     text-align: center;
-    width: 40%
+    width: auto;
+  }
+  .exit{
+    display: block;
+    justify-self: center;
+    /*min-width: 50px;*/
+    width: 40px;
+    height: auto;
   }
 
-/*  */
+  #topBtn{
+    height: 45px;
+  }
+
+
 }
 
 
@@ -512,10 +526,14 @@ body {
     right:0 ;
     top: 20%;
     text-align: center;
-    width: 40%
+    width: auto;
   }
   /*prpject end*/
   /* Global hover states */
+  .header{
+    font-size: 20px;
+    padding: 2% 0 2% 0;
+  }
   .header a:hover {
     text-decoration: underline;
   }
@@ -591,6 +609,7 @@ body {
   .tile {
     margin: 0;
     padding: 0;
+    min-height: 70%;
   }
 
   .hero_image {
@@ -651,7 +670,6 @@ body {
   .page_title {
     padding: 2% 0 2% 0;
     font-size: 70px;
-    font-weight: bolder;
     vertical-align: super;
   }
 
@@ -691,29 +709,24 @@ body {
     background-color: #cbcbcb;
 
   }
-  .bottom {
-    align-items: start;
-    padding: 0 10% 0 10%;
-  }
+
 
   .image_section {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: space-between;
   }
   .small_image_section {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: space-between;
   }
 
   .image_section_no_space {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: left;
+    width: 100%;
   }
 
   .image_column {
@@ -777,6 +790,9 @@ body {
     width: 32.5%;
     height: auto;
     max-height: 100%;
+  }
+  #topBtn{
+    height: 50px;
   }
 }
 .blue_back {
